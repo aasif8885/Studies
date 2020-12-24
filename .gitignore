@@ -1,7 +1,6 @@
 .mvn/
 mvnw
 mvnw.cmd
-pom.xml
 target
 .settings
 HELP.md
